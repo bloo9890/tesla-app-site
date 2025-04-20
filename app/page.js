@@ -135,15 +135,14 @@ export default function Home() {
     </div>
 
     <div>
-      <h3 className="text-xl font-semibold text-gray-900 mb-2">Sample Interview Prompts</h3>
-      <ul className="list-disc list-inside text-gray-700 ml-4">
-        <li>"How would you want to set a destination during your daily commute?"</li>
-        <li>"If you were controlling music on the go, what would help you stay focused?"</li>
-        <li>"Do you prefer automatic climate settings or customizing them each time?"</li>
-        <li>"Would you feel comfortable unlocking or opening your vehicle through an app?"</li>
-      </ul>
-    </div>
-
+  <h3 className="text-xl font-semibold text-gray-900 mb-2">Sample Interview Prompts</h3>
+  <ul className="list-disc list-inside text-gray-700 ml-4">
+    <li>&quot;How would you want to set a destination during your daily commute?&quot;</li>
+    <li>&quot;If you were controlling music on the go, what would help you stay focused?&quot;</li>
+    <li>&quot;Do you prefer automatic climate settings or customizing them each time?&quot;</li>
+    <li>&quot;Would you feel comfortable unlocking or opening your vehicle through an app?&quot;</li>
+  </ul>
+</div>
     <p className="text-sm text-gray-500 italic pt-2">
       These findings directly informed changes in Deliverables 3–5, shifting our app toward faster interactions and clearer visuals.
     </p>
